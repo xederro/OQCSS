@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "f7ab63a8ef94e8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bb1206825159969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae74f3744bbe7f55",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e04eaed85f33d9c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cff1d16dc6bd8ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a5f561a54eaedf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07eb762ac5fd398d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "right": {
+    "id": "3b34a11e0e9bb565",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c8c97e6c4eef61b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d12f41d65c18a160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Day 1/Start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Start"
+            }
+          },
+          {
+            "id": "f9c513fda5bd1432",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5fdda2cc7008cd0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "03f7562fddaae4f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d959900f829f7689",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "ae74f3744bbe7f55",
+  "lastOpenFiles": [
+    "Sample-Syllabus.md",
+    "Notes/Day 1/Start.md",
+    "Notes/Day 1",
+    "Notes",
+    "requirements.txt~",
+    "program.py",
+    "README_original.md",
+    "README.md",
+    "Home/Day 1/Start.md",
+    "Home.md",
+    "Home/Day 1",
+    "Notes/Day 1.md",
+    "Untitled.md",
+    "Home",
+    "4 - Archive/1 - Project/SCRUM-3/SCRUM-3.md",
+    "4 - Archive/1 - Project/SCRUM-3/osbdgoubwruogb.md",
+    "Welcome.md",
+    "1 - Project/SCRUM-3/SCRUM-3.md",
+    "4 - Archive/1 - Project/SCRUM-3",
+    "1 - Project/SCRUM-3/osbdgoubwruogb.md",
+    "4 - Archive/1 - Project/SCRUM-1/SCRUM-1.md",
+    "4 - Archive/1 - Project/SCRUM-5/SCRUM-5.md",
+    "4 - Archive/1 - Project/SCRUM-1",
+    "4 - Archive/1 - Project/SCRUM-2/SCRUM-2.md",
+    "1 - Project/SCRUM-1/SCRUM-1.md",
+    "1 - Project/SCRUM-6/SCRUM-6.md",
+    "1 - Project/SCRUM-5/SCRUM-5.md",
+    "4 - Archive/1 - Project/SCRUM-2",
+    "4 - Archive/1 - Project/SCRUM-5",
+    "2 - Area/SCRUM-7/SCRUM-7.md",
+    "1 - Project/SCRUM-7/SCRUM-7.md",
+    "1 - Project/SCRUM-2/SCRUM-2.md",
+    "99 - Meta/templates/quicknote.md",
+    "0 - Quick/12.md",
+    "0 - Quick/Untitled.md"
+  ]
+}

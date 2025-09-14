@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "autoConvertHtml": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 - Quick",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "readableLineLength": false
+}

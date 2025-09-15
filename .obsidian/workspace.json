@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bb1206825159969",
+        "id": "407dbe0e3d737f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae74f3744bbe7f55",
+            "id": "f115b0586b7e5b84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Day 1/Application of quantum computing.md",
+                "file": "Notes/Day 1/Foundation and milestones of QC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Application of quantum computing"
+              "title": "Foundation and milestones of QC"
             }
           }
         ]
@@ -188,10 +188,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ae74f3744bbe7f55",
+  "active": "f115b0586b7e5b84",
   "lastOpenFiles": [
-    "Notes/Day 1/Opening.md",
+    "Notes/Day 1/Foundation and milestones of QC.md",
     "Notes/Day 1/Application of quantum computing.md",
+    "Notes/Day 1/Opening.md",
     "Sample-Syllabus.md",
     "Notes/Day 1",
     "Notes",
@@ -224,7 +225,6 @@
     "1 - Project/SCRUM-7/SCRUM-7.md",
     "1 - Project/SCRUM-2/SCRUM-2.md",
     "99 - Meta/templates/quicknote.md",
-    "0 - Quick/12.md",
-    "0 - Quick/Untitled.md"
+    "0 - Quick/12.md"
   ]
 }

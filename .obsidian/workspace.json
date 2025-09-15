@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Day 1/Start.md",
+                "file": "Notes/Day 1/Application of quantum computing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Application of quantum computing"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 462.5,
+    "collapsed": true
   },
   "right": {
     "id": "3b34a11e0e9bb565",
@@ -189,8 +190,9 @@
   },
   "active": "ae74f3744bbe7f55",
   "lastOpenFiles": [
+    "Notes/Day 1/Opening.md",
+    "Notes/Day 1/Application of quantum computing.md",
     "Sample-Syllabus.md",
-    "Notes/Day 1/Start.md",
     "Notes/Day 1",
     "Notes",
     "requirements.txt~",

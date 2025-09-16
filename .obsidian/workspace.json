@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Day 2/Programming on a quantum computer.md",
+                "file": "Notes/Day 2/Hardware overview and real-world applications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programming on a quantum computer"
+              "title": "Hardware overview and real-world applications"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "7d76aadab589258e",
   "lastOpenFiles": [
-    "Notes/Day 2/Hardware overview and real-world applications.md",
-    "Notes/Day 2/Programming on a quantum computer.md",
-    "Notes/Day 2/Quantum gates and algorithms.md",
     "Notes/Day 2/What is quantum computing and why should we care about it.md",
+    "Notes/Day 2/Programming on a quantum computer.md",
+    "Notes/Day 2/Hardware overview and real-world applications.md",
+    "Notes/Day 2/Quantum gates and algorithms.md",
     "Notes/Day 2/Spark.ipynb~",
     "Notes/Day 2/Spark.ipynb",
     "Notes/Day 2/spark.py",

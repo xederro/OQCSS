@@ -4,7 +4,6 @@ import cudaq
 print(f"Running on target {cudaq.get_target().name}")
 qubit_count = int(sys.argv[1]) if 1 < len(sys.argv) else 2
 
-
 @cudaq.kernel
 def kernel():
     qubits = cudaq.qvector(qubit_count)

@@ -54,3 +54,23 @@ ansatze - the collection of states, we can change the parrameters to change the 
 encode the problem you want to solve
 cost function should be the energy of the system since it naturally (Hamiltonian) wants to be in lowest state
 
+### Classical optimiser
+gradient-based optimiser 
+particle swarm based optimiser
+
+what is variatonal quantum algorithm
+Variational principle
+
+cost function <p({ti})|H|p({ti})> <- the energy in that state
+
+### variational quantum eigensolver VQE
+
+### adiabatic quantum computing
+there are no quantum gates, these are use only to optimize (D-wave), by finding lowest energy of system (cost function)
+we prepare very simple state, for example all qbits the same, and gradually change the hamiltonian, to the one we care about. doing i very slowly we end up in lowest state of the eigenstate of H1
+adiobatic -> slow
+
+Ht=1-t/T\*H0+t/T\*H1
+
+### QAOA quantum annealing optimisation algorithm
+

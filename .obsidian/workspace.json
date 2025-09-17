@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Day 2/Hardware overview and real-world applications.md",
+                "file": "Notes/Day 3/Quantum Statistics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hardware overview and real-world applications"
+              "title": "Quantum Statistics"
+            }
+          },
+          {
+            "id": "f02a1394745c1469",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Day 3/Drawing 2025-09-17 09.28.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-17 09.28.37.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 462.5,
+    "collapsed": true
   },
   "right": {
     "id": "3b34a11e0e9bb565",
@@ -187,11 +201,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7d76aadab589258e",
+  "active": "f02a1394745c1469",
   "lastOpenFiles": [
+    "Notes/Day 3/Quantum Statistics.md",
+    "Notes/Day 3/Drawing 2025-09-17 09.28.37.excalidraw.md",
+    "Notes/Day 3/Drawing 2025-09-17 09.28.37.excalidraw.svg",
+    "Notes/Day 3/Modeling and Solving Optimization Problems.md",
+    "Notes/Day 3/Quantum optimization v2.md",
+    "Notes/Day 3/Basics of Optimization.md",
+    "Notes/Day 3/Quantum Optimization.md",
+    "Notes/Day 2/Hardware overview and real-world applications.md",
+    "Notes/Day 3",
     "Notes/Day 2/What is quantum computing and why should we care about it.md",
     "Notes/Day 2/Programming on a quantum computer.md",
-    "Notes/Day 2/Hardware overview and real-world applications.md",
     "Notes/Day 2/Quantum gates and algorithms.md",
     "Notes/Day 2/Spark.ipynb~",
     "Notes/Day 2/Spark.ipynb",
@@ -202,7 +224,6 @@
     "Notes/Day 2/DenebQAOA.ipynb",
     "Notes/Day 2/DenebQAOA.ipynb.crdownload",
     "Notes/Day 2/GarnetAlgorithmsChecker.ipynb",
-    "Notes/Day 2/GarnetAlgorithmsChecker.ipynb.crdownload",
     "Notes/Day 1/Foundation and milestones of QC.md",
     "Notes/Day 1/Application of quantum computing.md",
     "Notes/Day 1/Opening.md",
@@ -217,12 +238,6 @@
     "4 - Archive/1 - Project/SCRUM-3/osbdgoubwruogb.md",
     "Welcome.md",
     "1 - Project/SCRUM-3/SCRUM-3.md",
-    "1 - Project/SCRUM-3/osbdgoubwruogb.md",
-    "4 - Archive/1 - Project/SCRUM-1/SCRUM-1.md",
-    "4 - Archive/1 - Project/SCRUM-5/SCRUM-5.md",
-    "4 - Archive/1 - Project/SCRUM-2/SCRUM-2.md",
-    "1 - Project/SCRUM-1/SCRUM-1.md",
-    "1 - Project/SCRUM-6/SCRUM-6.md",
-    "1 - Project/SCRUM-5/SCRUM-5.md"
+    "1 - Project/SCRUM-3/osbdgoubwruogb.md"
   ]
 }

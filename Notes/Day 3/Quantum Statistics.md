@@ -35,4 +35,4 @@ with condition $\int f(x) dP <= \alpha$
 where $\alpha \in (0,1)$ best case close to 0
 
 
-![Drawing 2025-09-17 09.28.37.excalidraw](Drawing%202025-09-17%2009.28.37.excalidraw.md)
+![](Drawing%202025-09-17%2009.28.37.excalidraw.svg)

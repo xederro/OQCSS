@@ -1,0 +1,2 @@
+![](SimpleCircuit.ipynb)
+![](Assignment.ipynb)

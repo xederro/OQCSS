@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+qiskit_ibm_runtime
+jupyterlab
+matplotlib
+pylatexenc
+pennylane

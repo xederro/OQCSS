@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Day 3/Quantum optimization v2.md",
+                "file": "Notes/Day 4/Introduction to Cuda-Q and Quantum Error Correction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Quantum optimization v2"
+              "title": "Introduction to Cuda-Q and Quantum Error Correction"
             }
           }
         ]
@@ -189,27 +189,40 @@
   },
   "active": "f26f77505a88108a",
   "lastOpenFiles": [
-    "Notes/Day 3/Drawing 2025-09-17 15.18.44.excalidraw.md",
+    "Notes/Day 4/qec101/02_QEC_Stabilizers.ipynb~",
+    "Notes/Day 4/qec101/01_QEC_Intro.ipynb~",
+    "Notes/Day 2/Spark.ipynb~",
+    "requirements.txt~",
+    "Notes/Day 4/Introduction to Cuda-Q and Quantum Error Correction.md",
+    "Notes/Day 4/Compilation.md",
+    "Notes/Day 4/qec101/README.md",
+    "Notes/Day 4/qec101/Images/noisy/zneplot.png",
+    "Notes/Day 4/qec101/Images/noisy/trajectory_widget.py",
+    "Notes/Day 4/qec101/Images/noisy/nc.png",
+    "Notes/Day 4/qec101/Images/noisy/nc_qec.png",
+    "Notes/Day 4/qec101/Images/noisy/markov_trajectory.png",
+    "Notes/Day 4/qec101/Images/noisy/dynamics_noise_model.png",
+    "Notes/Day 4/qec101/Images/noisy/channels.png",
+    "Notes/Day 4/qec101/Images/decoder/steanetanner.png",
+    "Notes/Day 4/qec101/Images/decoder/solution3_button.py",
+    "Notes/Day 4/qec101/Images/decoder/solution2_button.py",
+    "Notes/Day 4/qec101/Images/decoder/solution1_button.py",
+    "Notes/Day 4/qec101/Images/decoder/pauliframes.png",
+    "Notes/Day 4/qec101/Images/decoder/decoding.png",
+    "Notes/Day 4/qec101/Images/decoder/decoder_widget.py",
+    "Notes/Day 4/qec101/Images/decoder/decodeintime.png",
+    "Notes/Day 4/qec101/Images/decoder/bpwidget.py",
+    "Notes/Day 4/qec101/Images/decoder/bp.py",
+    "Notes/Day 4/Quantum Machine Learning, Compilation.md",
     "Notes/Day 3/Quantum optimization v2.md",
-    "Notes/Day 3/assigment2.ipynb~",
-    "Notes/Day 3/Drawing 2025-09-17 15.18.44.excalidraw.svg",
-    "Notes/Day 3/assigment2.ipynb",
+    "Notes/Day 3/Drawing 2025-09-17 15.18.44.excalidraw.md",
     "Notes/Day 3/Modeling and Solving Optimization Problems.md",
     "Notes/Day 3/Basics of Optimization.md",
     "Notes/Day 3/Quantum Statistics.md",
     "Notes/Day 3/Quantum Optimization.md",
     "Notes/Day 3/Drawing 2025-09-17 09.28.37.excalidraw.md",
-    "Notes/Day 3/Assignment.ipynb~",
-    "Notes/Day 3/Assignment.ipynb",
-    "Notes/Day 3/circuil.py",
-    "Notes/Day 3/Grover - redacted.ipynb",
-    "Notes/Day 3/SimpleCircuit.ipynb",
-    "Notes/Day 3/requirements.txt",
     "Notes/Day 3/README.md",
-    "Notes/Day 3/Basics of optimisation.ipynb",
-    "Notes/Day 3/Drawing 2025-09-17 09.28.37.excalidraw.svg",
     "Notes/Day 2/Hardware overview and real-world applications.md",
-    "Notes/Day 3",
     "Notes/Day 2/What is quantum computing and why should we care about it.md",
     "Notes/Day 2/Programming on a quantum computer.md",
     "Notes/Day 2/Quantum gates and algorithms.md",
@@ -221,10 +234,6 @@
     "README.md",
     "Home/Day 1/Start.md",
     "Home.md",
-    "Notes/Day 1.md",
-    "Untitled.md",
-    "4 - Archive/1 - Project/SCRUM-3/SCRUM-3.md",
-    "4 - Archive/1 - Project/SCRUM-3/osbdgoubwruogb.md",
-    "Welcome.md"
+    "Notes/Day 1.md"
   ]
 }

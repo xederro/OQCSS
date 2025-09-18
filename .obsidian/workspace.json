@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Day 4/Introduction to Cuda-Q and Quantum Error Correction.md",
+                "file": "Notes/Day 4/Quantum Machine Learning, Compilation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Cuda-Q and Quantum Error Correction"
+              "title": "Quantum Machine Learning, Compilation"
             }
           }
         ]
@@ -189,12 +189,19 @@
   },
   "active": "f26f77505a88108a",
   "lastOpenFiles": [
+    "Notes/Day 4/qml.ipynb~",
+    "Notes/Day 4/Pasted image 20250918151626.png",
+    "Notes/Day 4/Compilation.md",
+    "Notes/Day 4/Pasted image 20250918151154.png",
+    "Notes/Day 4/qml.ipynb",
+    "Notes/Day 3/Assignment.ipynb~",
+    "Notes/Day 4/errors.ipynb~",
+    "Notes/Day 4/errors.ipynb",
+    "Notes/Day 4/Introduction to Cuda-Q and Quantum Error Correction.md",
     "Notes/Day 4/qec101/02_QEC_Stabilizers.ipynb~",
     "Notes/Day 4/qec101/01_QEC_Intro.ipynb~",
     "Notes/Day 2/Spark.ipynb~",
     "requirements.txt~",
-    "Notes/Day 4/Introduction to Cuda-Q and Quantum Error Correction.md",
-    "Notes/Day 4/Compilation.md",
     "Notes/Day 4/qec101/README.md",
     "Notes/Day 4/qec101/Images/noisy/zneplot.png",
     "Notes/Day 4/qec101/Images/noisy/trajectory_widget.py",
@@ -204,15 +211,7 @@
     "Notes/Day 4/qec101/Images/noisy/dynamics_noise_model.png",
     "Notes/Day 4/qec101/Images/noisy/channels.png",
     "Notes/Day 4/qec101/Images/decoder/steanetanner.png",
-    "Notes/Day 4/qec101/Images/decoder/solution3_button.py",
-    "Notes/Day 4/qec101/Images/decoder/solution2_button.py",
-    "Notes/Day 4/qec101/Images/decoder/solution1_button.py",
     "Notes/Day 4/qec101/Images/decoder/pauliframes.png",
-    "Notes/Day 4/qec101/Images/decoder/decoding.png",
-    "Notes/Day 4/qec101/Images/decoder/decoder_widget.py",
-    "Notes/Day 4/qec101/Images/decoder/decodeintime.png",
-    "Notes/Day 4/qec101/Images/decoder/bpwidget.py",
-    "Notes/Day 4/qec101/Images/decoder/bp.py",
     "Notes/Day 4/Quantum Machine Learning, Compilation.md",
     "Notes/Day 3/Quantum optimization v2.md",
     "Notes/Day 3/Drawing 2025-09-17 15.18.44.excalidraw.md",
